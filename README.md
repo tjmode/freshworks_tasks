@@ -7,7 +7,7 @@ This install all the necessary dependancies:
 ```
 ## json_merge 
 its contain the main class for merging JSON file into single json file
-## file 
-contain sample input
+## files 
+files file contain sample input
 ## output
-contain sample output
+output file contain sample output
