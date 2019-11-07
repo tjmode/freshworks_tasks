@@ -1,7 +1,13 @@
 # freshworks_tasks
-JSON_merge
-this file is contain the main code for merging JSON file into single json file
-#file
+## JSON_FILES_MERGING
+its requires python3
+This install all the necessary dependancies:
+```bash
+ pip install -r requirements.txt
+```
+## json_merge 
+its contain the main class for merging JSON file into single json file
+## file 
 contain sample input
-#output
-sample output
+## output
+contain sample output
