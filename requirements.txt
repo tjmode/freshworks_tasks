@@ -17,7 +17,7 @@ mpg123==0.4
 mysql-connector-python==8.0.17
 mysqlclient==1.4.4
 passlib==1.6.1
-protobuf==3.9.1
+protobuf==3.18.3
 psycopg2==2.8.3
 PyAudio==0.2.11
 PyMySQL==0.9.3
